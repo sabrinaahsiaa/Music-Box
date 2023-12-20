@@ -1,6 +1,6 @@
 # Music-Box
 
-This repository contins resources related to the Music Box. The Music Box project plays simple songs through a buzzer speaker on the tm4c123gh6pm microcontroller.
+This repository contains resources related to the Music Box. The Music Box project plays simple songs through a buzzer speaker on the tm4c123gh6pm microcontroller.
 
 # Development Tools Used
 
