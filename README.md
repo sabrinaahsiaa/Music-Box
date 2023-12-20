@@ -8,10 +8,10 @@ This repository contains resources related to the Music Box. The Music Box proje
 
 # Contents
 
-* MusicBox.c : Main function
-* SysTick.c and SysTick.h : Initialization of the SysTick timer for ISR
-* Music.c and Music.h : Score table for songs and song playing functions
-* Switch.c and Switch.h : Initialization of on-board switches and handler
+* `MusicBox.c` : Main function
+* `SysTick` : Initialization of the SysTick timer for ISR
+* `Music` : Score table for songs and song playing functions
+* `Switch` : Initialization of on-board switches and handler
 
 # Demo Video
 https://youtu.be/DHIIGU5KLRU
